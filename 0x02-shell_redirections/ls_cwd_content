@@ -1,7 +1,7 @@
-total 128
-drwxr-xr-x 2 root root  4096 Sep 21 14:37 .
+total 116
+drwxr-xr-x 2 root root  4096 Oct 30 07:12 .
 drwxr-xr-x 7 root root   160 Sep 10 12:33 ..
--rw-r--r-- 1 root root    32 Sep 21 09:00 0-hello_world
+-rwxr--r-- 1 root root    32 Oct 30 06:45 0-hello_world
 -rwxr--r-- 1 root root    48 Sep  7 10:21 10-no_more_js
 -rwxr--r-- 1 root root    47 Sep  7 10:22 11-directories
 -rwxr--r-- 1 root root    31 Sep  7 10:23 12-newest_files
@@ -15,16 +15,16 @@ drwxr-xr-x 7 root root   160 Sep 10 12:33 ..
 -rwxr--r-- 1 root root    21 Sep  7 15:54 20-hiago
 -rwxr--r-- 1 root root    16 Sep  7 15:55 21-reverse
 -rwxr--r-- 1 root root    49 Sep  7 15:57 22-users_and_homes
--rwxrwxrwx 1 root root    29 Sep 21 08:40 2-hellofile
+-rwxrwxrwx 1 root root    28 Oct 30 07:08 2-hellofile
 -rwxr--r-- 1 root root    36 Sep  7 09:46 3-twofiles
 -rwxr--r-- 1 root root    35 Sep  7 09:50 4-lastlines
 -rwxr--r-- 1 root root    35 Sep  7 09:51 5-firstlines
 -rwxr--r-- 1 root root    46 Sep  7 09:56 6-third_line
 -rwxr--r-- 1 root root    78 Sep 21 14:33 7-file
 -rw-r--r-- 1 root root 12288 Sep  7 10:00 .7-file.swp
--rwxr--r-- 1 root root    37 Sep  7 10:19 8-cwd_state
+-rwxr--r-- 1 root root    36 Oct 30 07:12 8-cwd_state
 -rw-r--r-- 1 root root 12288 Sep 21 09:05 .8-cwd_state.swo
--rw-r--r-- 1 root root 12288 Sep  7 10:31 .8-cwd_state.swp
 -rwxr--r-- 1 root root    37 Sep  7 10:20 9-duplicate_last_line
--rw-r--r-- 1 root root     0 Sep 21 14:37 ls_cwd_content
+-rw-r--r-- 1 root root     0 Oct 30 07:12 ls_cwd_content
 -rwxr--r-- 1 root root     0 Sep  5 14:39 README.md
+-rw-r--r-- 1 root root     0 Oct 30 07:01 test
